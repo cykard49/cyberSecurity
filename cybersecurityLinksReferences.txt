@@ -1,0 +1,58 @@
+- The State of Authentication Security is a report that you can have delivered to your email by clicking on the link below:
+    https://www.cybersecurity-insiders.com/portfolio/2023-the-state-of-authentication-security-enzoic/ 
+
+- This publication provides a catalog of security and privacy controls for information systems and organizations to protect organizational operations and 
+assets, individuals, other organizations, and the Nation from a diverse set of threats and risks, including hostile attacks, 
+human errors, natural disasters, structural failures, foreign intelligence entities, and privacy risks. 
+The controls are flexible and customizable and implemented as part of an organization-wide process to manage risk.
+The controls address diverse requirements derived from mission and business needs, laws, executive orders, directives, regulations, policies, standards, and guidelines.
+Finally, the consolidated control catalog addresses security and privacy from a functionality perspective 
+(i.e., the strength of functions and mechanisms provided by the controls) and from an assurance perspective 
+(i.e., the measure of confidence in the security or privacy capability provided by the controls).
+Addressing functionality and assurance helps to ensure that information technology products and the systems that rely on those products are sufficiently trustworthy.
+   https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf 
+
+- The Biggest Data Security Breaches 
+This article discusses the biggest data security breaches in the U.S.  We will be studying data breaches so it's good to review these. 
+Make note of the ones that are of most interest to you.  You might select one or more from this list for your breach project. 
+Note - the same data breach cannot be selected by students in this class.  Each breach reported on must be a different breach. 
+  https://jumpcloud.com/blog/top-5-security-breaches-of-2021
+
+- Cybersecurity Framework - Most Popular Framework in Use Today! 
+This framework is important to your learning in this class. 
+You are being asked in the major class project to use the NIST framework 2.0 in your project.
+The NIST Framework 2.0 was released February, 2024.  The URL is provided below:
+    https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf 
+
+- Data Classification Schemes:
+The links below will provide examples of how data is classified in different industries:
+  1) Energy Company Data Classification Model: https://www.energy.gov/sites/prod/files/oeprod/DocumentsandMedia/21-Security_Framework_for_Data_Class.pdf 
+  2) University Data Classification Scheme - it's important to understand data classification.
+    You will want to make sure you discuss this control in your project.
+    Most schools use similar classifications as well as most businesses.  
+    Government may use a different classification scale.
+      https://www.cmu.edu/data/guidelines/data-classification.html
+
+
+- Domain Name Servers: In the link below you will be able to see a video to provide you an understanding of DNS, Dynamic DNS, and Reverse DNS:
+    https://www.youtube.com/watch?v=VwpP8PUzqLw
+
+ OSI Model Demystified
+
+- In the link below you will be able to see a YouTube on understanding the OSI model.
+  It is critical information and important to your understanding of networking.
+  Everything in networking and data protection starts with at least a basic understanding of the OSI model.
+    https://www.youtube.com/watch?v=HEEnLZV2wGI#t=23
+
+- Texas and Other States Security Breach Notification Chart is provided by the Law Firm Perkins Coie.  
+the link below for Breach Notification in all 50 States: https://www.itgovernanceusa.com/data-breach-notification-laws 
+link for the Texas Law: https://www.texasattorneygeneral.gov/consumer-protection/data-breach-reporting 
+
+- List of data breaches in 2023: https://www.itgovernance.co.uk/blog/list-of-data-breaches-and-cyber-attacks-in-2023
+
+- Global Data breach in 2024: https://www.itgovernance.co.uk/blog/category/monthly-data-breaches-and-cyber-attacks 
+
+- Firewall time: https://firewalltimes.com/category/breaches/
+                  https://firewalltimes.com/recent-data-breaches/
+
+- Ransom tracker 2024: https://spin.ai/resources/ransomware-tracker/
