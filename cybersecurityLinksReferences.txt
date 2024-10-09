@@ -56,3 +56,37 @@ link for the Texas Law: https://www.texasattorneygeneral.gov/consumer-protection
                   https://firewalltimes.com/recent-data-breaches/
 
 - Ransom tracker 2024: https://spin.ai/resources/ransomware-tracker/
+
+- NIST Guide to Protecting the Confidentiality of Personally Identifiable Information (PII):
+    The link below provides recommendations from the National Institute of Standards and Technology (NIST) on how to protect PII:
+        https://csrc.nist.gov/pubs/sp/800/122/final 
+
+- Youtube video regarding the Anatomy of a Ransomware: https://www.youtube.com/watch?v=QfdcQ6SgYEE
+
+- A 6-episode docuseries that details the catastrophic effects ransomware has on businesses and how to prevent it:
+    https://www.webroot.com/us/en/cyber-resilience/fight-ransomware?mkt_tok=NTYyLVdEQy0xNDcAAAGOEEzYgD-9TGrevWRJ_W9jHgiA2QbfHEwnIlLbMUNWyi9tXgwWW_tzx4PGUI3Bi5nWJevVziMj3goVbTSELKlj7MFx-72hwiXQMjBven8HiwiX
+
+- Cybersecurity training: http://www.securingthehuman.org/resources/newsletters/ouch/2013
+
+- Employee Termination from an ID Perspective: https://www.liveabout.com/sample-termination-letters-for-the-workplace-1919119
+
+- SANS Securing the Human - Sample uTube that is available for your use: https://www.youtube.com/watch?v=y0eny-WJP8I
+
+- White Collar Felon - Walt Pavlo  (Real story and Interesting Video).Review the video below on Insider Fraud and White Collar Crimes:
+        https://www.youtube.com/watch?v=MLDkIXkMOO0
+
+- 2024 Verizon Verizon Data Breach Incident Report (DBIR) - for use in your Threaded Discussion
+You can download the report with this link: Download the 2024 Verizon DBIR Report for your Use :
+https://www.verizon.com/business/resources/reports/2024-dbir-data-breach-investigations-report.pdf
+
+- The Links below will provide you good information on the "Target" Security breach and other information.  This breach is a great example of the importance of Network Segmentation as a control -  so I include it for your information:  
+    https://krebsonsecurity.com/2014/02/target-hackers-broke-in-via-hvac-company/
+    https://www.npr.org/2014/01/14/262387292/what-everyone-needs-to-know-about-todays-cyberthreats
+- Jack Blount CEO at Intrusion, on Cyber Warfare (Believes Highly focused Cybersecurity Programs are the way to Educate Cyber Experts!) - I Agree ....... and that is the way we have created the UD Cybersecurity and Cyber Intelligence Program:
+    https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/
+
+-  familiarize yourself with Linux.  Introduction to Linux Operating System for your information: 
+    https://www.youtube.com/watch?v=H3Uk9WAOI08
+
+- Linux Command Line Information Sheet : https://www.guru99.com/linux-commands-cheat-sheet.html
+
