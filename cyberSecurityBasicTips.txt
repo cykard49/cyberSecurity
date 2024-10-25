@@ -1,0 +1,7 @@
+- Use Tap to pay credit card when paying in public. This uses temporary token, which is gone after one-time use credti card number.
+- Set up a credit freeze. Call Experian, Transunion, Equifz and then freeze your account.
+    - Unfreeze or thaw when needed to apply for any credit cards, loans and backgrounc check.
+- Do not use public WiFi. Connect to your phone hotspot.
+- Turn Bluetooth, Location, WiFi on, if not needed.
+- DO not scan public QR codes. Those can be hacker website, which can then get into your phone after scanned.
+
