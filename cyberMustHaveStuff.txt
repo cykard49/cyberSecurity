@@ -4,9 +4,20 @@ https://www.amazon.com/Databloc-Charge-Only-Adapter-syncing-Charging/dp/B07NRDT2
 Virtual credit cards: Temporary credit card, which can have customize user details.
 Got t othis link to make virtual credit cards:
   - privacy.com: can create 12 different credit cards
+  - https://anonyome.com/individuals/mysudo-plans/ 
 
 Cryptocurrency cold storage: To store crypto in physical USB drive.
   - Ledger Nano S: https://www.amazon.com/Ledger-Crypto-Hardware-Wallet-Matte-Black/dp/B09W66VHFH
   - Trezor One: https://www.amazon.com/Trezor-bitcoin-wallet-white/dp/B00P5HU80A
 
+For privacy notebook: notesnook.com
+
+For Home Network Access Storage: synology nas
+
+For anonymous web browser: https://brave.com
+
+For advanced App/software uninstallation from Windows OS, download Revo Uninstaller from:
+https://www.revouninstaller.com/start-freeware-download-portable/
+
+For Anonyms phone OS: GrapheneOS
 
