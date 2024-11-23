@@ -1,0 +1,10 @@
+- RMF considers the designations of information stored or processed on an Information System to determine how the system must be secured and once the system is secured to the level prescribed by RMF, the system is Authorized to Operate (ATO)
+RMF process:
+1. Prepare: help prepare company to manage its security and privacy risks uisng RMF, by gathering all information about system necessary to start RMF process.
+2. Categorize: categorized impact or consequences to company with respect to compromise or loss of Information System organization assets. level of impact of CIA of the inforamtion is determined.
+3. Select: select baseline security controls based on categorization, customizing and supplementing security control baseline as needed based on company assessment of risk and local conditions.
+4. Implement: Impement security controls and document how the controls are implemented within the system and their effects on the environment of operation.
+5. Assess: Assess the implementation of each security control and deterine whether the implementation effectively meets th eintent of the control.
+6. Authorize: Authorize system operation based upon a determination of the risk to organizational operations and assets, individuals, other organzation and the nation resulting fromt he operation of the system and the decision that this risk is acceptable.
+7. Monitor: Monitor security controls for ongoing situational waareness of system by documenting changes, conducting security impact analysis, reporting security stateof the system
+
